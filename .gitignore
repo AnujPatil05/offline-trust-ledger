@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+build/
+.windows/
+*.db
+*.sqlite
+*.sqlite3
+*.hive
+# Flutter
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Platform folders
+android/
+ios/
+linux/
+macos/
+windows/
+
+# Local storage / DB
+*.db
+*.sqlite
+*.sqlite3
+hive/
+app_data/
+
+# IDE
+.vscode/
+.idea/
+*.log
