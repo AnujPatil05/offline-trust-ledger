@@ -1,6 +1,8 @@
 # Offline Trust Ledger
 
 An offline-first audit logging system that detects data tampering using cryptographic hash chaining and server-side verification.
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## What this project does
 
